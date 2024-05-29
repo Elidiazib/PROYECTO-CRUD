@@ -1,0 +1,10 @@
+body{
+    background: rgb(67, 48, 122);
+}
+*{
+    color:#f8eeee;
+}
+
+#btnUpdate{
+    display: none;
+}
